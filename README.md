@@ -1,2 +1,2 @@
 # hello-world
-I am making some edits to the readme
+I am making some changes to the readme
